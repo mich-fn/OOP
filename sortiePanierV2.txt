@@ -1,0 +1,21 @@
+le panier 
+totalPanier 190.350000
+	Marteau
+	Categorie:	1
+	Prix:		$10.000000
+	rabais:		5%
+	Scie
+	Categorie:	2
+	Prix:		$50.000000
+	prix Actuel:	50.000000
+	Perceuse
+	Categorie:	2
+	Prix:		$120.000000
+	vis
+	Categorie:	2
+	Prix:		$6.000000
+	prix Actuel:	6.000000
+	Tourvenis
+	Categorie:	1
+	Prix:		$5.000000
+	rabais:		3%
